@@ -3,7 +3,7 @@
 <h2>🧠 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/NMAnuda?theme=light&font=Fenix" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/%3CNMAnuda%3E?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="left">
