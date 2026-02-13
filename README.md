@@ -57,7 +57,6 @@ I thrive on transforming complex data into actionable insights and building scal
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
->
 
 ### Databases & Backend
 <p align="left">
