@@ -79,17 +79,4 @@ I thrive on transforming complex data into actionable insights and building scal
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </p>
 
----
 
-## GitHub Analytics & LeetCode Journey 
-
-<table align="center">
-  <tr>
-    <td>
-      <img width="420" src="https://streak-stats.demolab.com?user=NMAnuda&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img width="420" src="https://leetcard.jacoblin.cool/NMAnuda?ext=heatmap&theme=dark" alt="LeetCode Stats" />
-    </td>
-  </tr>
-</table>
